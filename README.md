@@ -1,4 +1,5 @@
 # static_testing
+[![Build Status](https://www.travis-ci.org/mdemeyer/static_testing.svg?branch=master)](https://www.travis-ci.org/mdemeyer/static_testing)
 
 Single header template library with static_assertion helpers.
 
