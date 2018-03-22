@@ -19,7 +19,6 @@ script:
 
   - mkdir -p build
   - cd build
-  - cmake ..
+  - cmake ../libstatic_testing/
   - make
-  - make test
 
